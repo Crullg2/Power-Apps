@@ -62,36 +62,23 @@ A **Power Apps** tool designed to guide leaders through a structured and fair em
 
 ---
 
-### 3. `JustCultureQuestions` — Predefined questions and options
+### 3. `JustCultureQuestions` — Predefined Step-by-Step Behavior Guides
 
 | Column Name | Type | Purpose |
 |:------------|:-----|:--------|
-| Title | Single line of text | Question Title |
-| Step1, Step2, Step3 | Single line of text | Step-by-step decision text |
-| Created, Modified | Date and Time | Metadata |
-| Created By, Modified By | Person or Group | Metadata |
+| Title | Single line of text | Question set title |
+| Step1 | Single line of text | Initial behavior description |
+| Step2 | Single line of text | System or culture context explanation |
+| Step3 | Single line of text | Final "Yes/No" recommendation guide |
+| Created | Date and Time | Created timestamp |
+| Modified | Date and Time | Last modified timestamp |
+| Created By | Person or Group | Creator |
+| Modified By | Person or Group | Last modifier |
 
-1
-The employee was impaired by illegal or legal substances.
-The system and/or culture supports error and requires improvement and/or redesign. Leaders are accountable and should apply error management in the system via human factors-based improvements.
-Yes
-
-23
-The employee wanted to cause harm.
-The system and/or culture supports risky action and requires improvement and/or redesign. The employee is probably less accountable for the behavior. Leaders share accountability with the employee.
-No
-
-24
-The employee makes or participates in an error while working appropriately and in the patient’s best interest.
-The system and/or culture supports reckless action and requires improvement and/or redesign. The employee is probably less accountable for the behavior. Leaders share accountability with the employee.
-
-25
-The employee made a potentially unsafe choice. Faulty or self-serving decision making may be evident, or short cuts, or routine rule violations.
-N/A
-
-26
-The employee knowingly violated a rule and / or made a dangerous or unsafe choice. The decision appears to have been made with little or no concern about risk.
-
+**Explanation:**
+- **Step1** = Defines the *initial behavior* you are reviewing (example: "Employee impaired by substances").
+- **Step2** = Provides *context* about system design or leadership expectations related to that behavior.
+- **Step3** = Guides if there is an immediate "Yes" or "No" recommendation to move forward based on system findings.
 ---
 
 ## 🔧 App Workflow Explained
