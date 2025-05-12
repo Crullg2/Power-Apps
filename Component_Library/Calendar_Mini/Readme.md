@@ -1,6 +1,6 @@
 # 📆 Mini Calendar Date Picker Component for Power Apps
 
-![Mini Calendar Preview](Image/Screenshot%202025-05-12 114630.png)
+![Mini Calendar Preview](Image/Screenshot%202025-05-12%20114630.png)
 
 ---
 
