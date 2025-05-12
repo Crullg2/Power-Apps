@@ -1,6 +1,6 @@
 # 📅 Custom Calendar Date Picker Component for Power Apps
 
-![Calendar Example](Images/rzuber_0-1718576484894.png)
+![Calendar Example](Image/Screenshot 2025-05-12 113733.png)
 
 ---
 
