@@ -1,4 +1,4 @@
-## ![Gauge Chart Demo](Images/GaugeChart.png)
+## ![Gauge Chart Demo](Images/Gaugechart.png)
 
 ---
 
