@@ -1,6 +1,6 @@
 
 # Modal Dialog with Configurable Buttons
-![(/DialogBox/DialogBoxComponent.png)](DialogBox/DialogBoxComponent.png)
+![DialogBox Preview](/DialogBox/DialogBoxComponent.png)
 
 Note: The latest update addreses the "One or more component behaviour properties, event or action, have a mismatched return type" error.
 
