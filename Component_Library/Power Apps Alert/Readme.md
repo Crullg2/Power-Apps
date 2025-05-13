@@ -1,4 +1,4 @@
-## ![Alert Demo Animation](Images/Alertcomponent.gif)
+## ![Alert Demo Animation](Image/Alertcomponent.gif)
 
 ---
 
