@@ -54,3 +54,27 @@ Table(
     { Prefix: "08", Format: "#### ### ####" },
     { Prefix: "", Format: "##### ######" }
 )
+Important:
+To use InputMaskMultipleFormats, leave InputMask blank.
+
+🧠 How It Works
+User types a phone number (ex: 2049876543)
+
+Input field dynamically formats it according to your mask
+
+Both formatted text and raw phone number are available to the app
+
+🚧 Limitations
+Cannot be used inside Galleries or Edit Forms (Power Apps limitation).
+
+You must create a custom form and submit data using Patch() instead of the built-in form controls.
+
+For a guide on how to recreate this functionality in an Edit Form, see:
+👉 Phone Number Formatting in a Form (Matthew Devaney)
+
+👍 Give It a Try
+If you find this component useful:
+
+⭐ Star this project
+
+🛠 Modify it to fit your app’s needs
