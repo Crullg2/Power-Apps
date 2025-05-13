@@ -1,5 +1,7 @@
 
-## ![Radar Chart Demo](Images/RadarChartDemo.png)
+## ![Radar Chart Demo](Images/Pentagon-Radar-3-Value-Sets-lg.png)
+## ![Radar Chart Demo2](Images/Radar-new-Polygon-2-lg.png)
+
 
 ---
 
