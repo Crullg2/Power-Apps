@@ -8,7 +8,7 @@
 
 <h1>👨‍💻 About Me</h1>
 
-<p><strong>Hi, I’m Gary Crull</strong> — a Power Platform Developer, Program & Management Analyst, and citizen development advocate with a background in both federal service and frontline healthcare. I specialize in building efficient, no-code/low-code apps that transform outdated workflows into agile, scalable solutions.</p>
+<p><strong>Hi, I’m Gary Crull</strong> — a Power Platform Developer, Program & Management Analyst, and citizen development advocate / Power App Champion with a background in both federal service and frontline healthcare. I specialize in building efficient, no-code/low-code apps that transform outdated workflows into agile, scalable solutions.</p>
 
 <p>I’ve led and collaborated on projects that drive real results:</p>
 <ul>
