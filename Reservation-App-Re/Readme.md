@@ -2,7 +2,7 @@
 
 ![HomeScreen UI](images/Screenshot%202025-05-09%20075641.png)
 ![Reservation UI](images/Screenshot%202025-05-08Screenshot%200154346.png)
-![Recurring Settings](Screenshot%202025-06-11%20115743.png)
+![Recurring Settings]([Screenshot%202025-06-11%20115743.png)
 ![Recurring Settings2](Screenshot%202025-06-11%20115757.png)
 ![Booking Overview](images/Screenshot%202025-05-08%20114656.png)
 ![Time Slot Selection](images/Screenshot%202025-05-08%20095423.png)
