@@ -68,7 +68,8 @@ This Power Platform app allows users to reserve desks and rooms, including suppo
 | RecurrenceID             | Number              | Unique series ID. |
 | ParentReservationID      | Lookup              | Link to main reservation. |
 | Meeting Category         | Choice              | Purpose (Training, Work, etc.). |
-
+| OutlookEventID        | Multiple lines of text             | Capture Outlook Event ID to use for deletion later |
+| OutlookSeriesID       | Multiple lines of text             | Capture Outlook Series Event ID to use for deletion later |
 ---
 
 ## 🔁 Recurring Reservation Logic
