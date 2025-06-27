@@ -56,7 +56,7 @@
 ## 🧠 Tech Stack
 
 - Power Apps Canvas App  
-- SharePoint or Dataverse backend  
+- SharePoint or Dataverse backend if desired to record decisions/Track ROI from use.  
 - Logic via `Switch()`, `If()`, `Patch()`, and collections  
 ---
 ## ✅Other suggested addons for the app
