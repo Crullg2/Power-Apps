@@ -10,8 +10,8 @@
 
 - Quickly assess the scale and complexity of a problem  
 - Reduce ambiguity when deciding whether to escalate an issue  
-- Align problems with appropriate Lean or PI tools
-- Does not require a datasource but can add one for tracking. 
+- Align problems with appropriate Lean or PI tools  
+- Does not require a datasource but can add one for tracking  
 
 ---
 
@@ -32,7 +32,7 @@
 - Does it involve safety, compliance, or major impact?  
 - How much effort would it take to address?  
 
-**Possible outcomes:**
+**Possible outcomes:**  
 - 🛠️ **Just Do It**
 - 🟡 **Yellow Belt**
 - 🚀 **RPIW**
@@ -56,13 +56,63 @@
 ## 🧠 Tech Stack
 
 - Power Apps Canvas App  
-- SharePoint or Dataverse backend if desired to record decisions/Track ROI from use.  
+- SharePoint or Dataverse backend if desired to record decisions/track ROI from use  
 - Logic via `Switch()`, `If()`, `Patch()`, and collections  
----
-## ✅Other suggested addons for the app
-- add a list that dynamically tracks ROI based on final selections
-  
+
 ---
 
+## ✅ Other Suggested Add-ons
 
+- Add a list that dynamically tracks ROI based on final selections
+
+---
+
+## 📲 How to Install the Problem Decision Tool in Power Apps
+
+1. **Download the App Package**  
+   Get the `.msapp` file or export package (may be a `.zip`) from your team or download link.
+
+2. **Open Power Apps Studio**  
+   Go to [Power Apps](https://make.powerapps.com/) and sign in.
+
+3. **Import the App**  
+   - Click **Apps** on the left menu.  
+   - Select **Import canvas app** (top of the page or under "+ New app" dropdown).  
+   - Upload your `.msapp` file or exported package.
+
+4. **Name & Review**  
+   - Give the app a name (or keep default).  
+   - Review details and set up any needed data connections (SharePoint, Dataverse, etc.).
+
+5. **(Optional) Connect Data Sources**  
+   - If you want to save decisions or track ROI, connect to a SharePoint list or Dataverse table when prompted.
+
+6. **Save & Publish**  
+   - Click **Save**.  
+   - Click **Publish** to make the app available to users.
+
+7. **Share the App**  
+   - Click **Share** in Power Apps.  
+   - Add users or groups who need access.  
+   - Set permissions (User, Co-owner, etc.) as needed.  
+   - Click **Share** to send invites.
+
+8. **Access on Any Device**  
+   - Users can launch the app from [Power Apps](https://make.powerapps.com/) or the Power Apps mobile app (iOS/Android).  
+   - For easy access, pin the app to your Home screen or Teams.
+
+**Tip:**  
+The app works out-of-the-box for triage and decision support. Add a data source if you want to track decisions or ROI.
+
+---
+
+### Example: Connecting to SharePoint
+
+1. In Power Apps Studio, go to **Data** > **Add data**.  
+2. Find your SharePoint site.  
+3. Select or create the list you’ll use for tracking.
+
+---
+
+**Need screenshots or a quick how-to video? Just ask.**
 
